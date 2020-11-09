@@ -1,0 +1,9 @@
+{
+    "Name" : "Core",
+    "Version" : "4.2.1",
+    "Required" : true,
+    "Vendor" : "The Qt Company Ltd",
+    "Category" : "Core",
+    "Description" : "The core plugin for the Qt IDE.",
+    "Url" : "http://www.qt.io"
+}
