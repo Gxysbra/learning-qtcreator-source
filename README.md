@@ -25,6 +25,7 @@
 
 - CSDN: https://blog.csdn.net/Gxysbra/
 - GitHub: https://github.com/Gxysbra/
+- 本项目地址: https://github.com/Gxysbra/learning-qtcreator-source/
 
 ## 引用
 
