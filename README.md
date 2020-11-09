@@ -11,7 +11,7 @@
 
 因为中文编码问题
 
-**`qt-creator-pluginframework`**文件夹中存放的是提取出来的`QtCreator`插件框架，其中部分`.pro`和`.pri`添加了中文注释，但源代码文件没有注释，可直接构建。
+`qt-creator-pluginframework`文件夹中存放的是提取出来的`QtCreator`插件框架，其中部分`.pro`和`.pri`添加了中文注释，但源代码文件没有注释，可直接构建。
 
 `src`中对`aggregation`、`extensionsystem`和`app`部分的源码进行了部分注释。
 
